@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movies App Stage 1</string>
+    <string name="title_home">Now Playing</string>
+    <string name="title_popular">Most Popular</string>
+    <string name="title_top_rated">Highest rated</string>
+    <string name="title_detail_activity">DetailsActivity</string>
+    <string name="error_loading">An error has occurred while loading the movies, please check your connection</string>
+    <string name="overview">Overview :</string>
+    <string name="movie_poster">movie\'s poster</string>
+    <string name="calendar_icon">calendar icon</string>
+    <string name="grade_icon">grade icon</string>
+</resources>
